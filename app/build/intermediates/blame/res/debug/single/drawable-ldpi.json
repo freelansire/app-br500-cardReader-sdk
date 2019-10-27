@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Skobi/Desktop/AudioPass2003_Full_SDK_20141225/Sample code/app/build/intermediates/res/merged/debug/drawable-ldpi/ft_home_logo.png",
+        "source": "/Users/Skobi/Desktop/AudioPass2003_Full_SDK_20141225/Sample code/app/src/main/res/drawable-ldpi/ft_home_logo.png"
+    },
+    {
+        "merged": "/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/imadelaouny/Desktop/Sample code/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/merged/debug/drawable-ldpi/ft_home_logo.png",
+        "source": "/Users/imadelaouny/Desktop/Sample code/app/src/main/res/drawable-ldpi/ft_home_logo.png"
+    },
+    {
+        "merged": "/Users/Skobi/Desktop/AudioPass2003_Full_SDK_20141225/Sample code/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/Skobi/Desktop/AudioPass2003_Full_SDK_20141225/Sample code/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

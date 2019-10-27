@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Thu Mar 02 13:07:57 CET 2017
+2.base=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_phone.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.base=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/bg.xml
+4.set=ANDROID_RESOURCE
+6.base=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_/res/layout/title_activity_ft_bt_demo.xml
+9.set=ANDROID_RESOURCE
+9.file=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_action_search.png
+1.set=ANDROID_RESOURCE
+7.base=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+8.base=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_ft_bt_demo.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_
+9.base=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/imadelaouny/Desktop/Sample code/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ft_home_logo.png
+8.set=ANDROID_RESOURCE
+0.set=DEX

@@ -1,0 +1,102 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent">
+
+        <TextView
+        android:text="                                Reader"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:id="@+id/textView2"
+        android:textSize="18sp"
+        android:textStyle="normal|bold"
+        android:textAlignment="textStart" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:weightSum="1">
+
+            <Button
+                android:text="List"
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:id="@+id/BList" />
+
+            <Spinner
+                android:layout_width="181dp"
+                android:layout_height="match_parent"
+                android:id="@+id/spinner1"
+                android:layout_weight="0.80" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="87dp">
+
+            <Button
+                android:text="Connect"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/Bconnect"
+                android:layout_weight="1"
+                android:layout_marginTop="30dp"
+                android:enabled="true" />
+
+            <Button
+                android:text="DisConnect"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/BdisConnect"
+                android:layout_weight="1.00"
+                android:layout_marginTop="30dp"
+                android:enabled="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="70dp"
+            android:layout_marginLeft="70dp"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:text="MutueleAuthent"
+                android:layout_width="wrap_content"
+                android:id="@+id/M_AUthenticate"
+                android:layout_weight="0.76"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="Display Data"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:id="@+id/textView" />
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:id="@+id/Ereceive"
+            android:background="?android:attr/colorActivatedHighlight" />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bR500_v4.01_debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/bR500_v4.01_debug.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
