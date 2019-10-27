@@ -20,3 +20,8 @@ bR301_Android
 smartcard reader Android SDK
 
 Notice: The code also can work with Feitian iR301-U/iPad casing reader
+
+
+![get in image](../master/a1.JPG)
+
+![get in image](../master/a2.JPG)
